@@ -35,27 +35,27 @@ A comprehensive, all-in-one platform designed to **eliminate student productivit
 ### Collaboration & Productivity
 | | |
 | :--: | :-- |
-| **Community Chat**<br/>*Group and private messaging system.* | ![Chat Interface](screenshots/07-شاشة-الدردشة.jpg) |
-| **Help Requests**<br/>*Interface for creating assistance requests.* | ![Help Requests](screenshots/08-طلب-المساعدة.jpg) |
+| **Community Chat**<br/>*Group and private messaging system.* | ![Chat Interface](screenshots/شاشة-الدردشة.png) |
+| **Help Requests**<br/>*Interface for creating assistance requests.* | ![Help Requests](screenshots/08-طلب-المساعدة.png) |
 | **Assistance Offers**<br/>*View and manage assistance offers from tutors.* | ![Assistance Offers](screenshots/09-عروض-المساعدة.jpg) |
-| **Task Management**<br/>*Academic task organization interface.* | ![Task Manager](screenshots/10-خدمة-المهام.jpg) |
-| **Pomodoro Timer**<br/>*Study session time management tool.* | ![Pomodoro Timer](screenshots/11-تقنية-البومودورو.jpg) |
+| **Task Management**<br/>*Academic task organization interface.* | ![Task Manager](screenshots/10-خدمة-المهام.png) |
+| **Pomodoro Timer**<br/>*Study session time management tool.* | ![Pomodoro Timer](screenshots/11-تقنية-البومودورو.png) |
 
 ### Educational Content
 | | |
 | :--: | :-- |
-| **Courses Interface**<br/>*Educational courses by academic specialty.* | ![Courses](screenshots/12-شاشات-الكورسات.jpg) |
-| **Profile Settings**<br/>*Account and application settings.* | ![Profile Settings](screenshots/13-إعدادات-الملف-الشخصي.jpg) |
+| **Courses Interface**<br/>*Educational courses by academic specialty.* | ![Courses](screenshots/12-شاشات-الكورسات.png) |
+| **Profile Settings**<br/>*Account and application settings.* | ![Profile Settings](screenshots/13-إعدادات-الملف-الشخصي.png) |
 
 ### Admin Dashboard (React)
 | | |
 | :--: | :-- |
-| **Admin Main Dashboard**<br/>*Main administration interface with statistics.* | ![Admin Dashboard](screenshots/14-لوحة-التحكم.jpg) |
-| **Statistics Overview**<br/>*Platform usage and revenue statistics.* | ![Statistics](screenshots/15-شاشة-الإحصائيات.jpg) |
-| **Theme Settings**<br/>*Interface theme and color customization.* | ![Theme Settings](screenshots/16-إعدادات-القوائم.jpg) |
-| **Communities Management**<br/>*Academic communities administration.* | ![Communities Management](screenshots/17-إعداد-المجتمعات.jpg) |
-| **Courses Management**<br/>*Educational content management.* | ![Courses Management](screenshots/18-إعداد-الكورسات.jpg) |
-| **Users Management**<br/>*User accounts administration panel.* | ![Users Management](screenshots/19-عرض-المستخدمين.jpg) |
+| **Admin Main Dashboard**<br/>*Main administration interface with statistics.* | ![Admin Dashboard](screenshots/14-لوحة-التحكم.png) |
+| **Statistics Overview**<br/>*Platform usage and revenue statistics.* | ![Statistics](screenshots/احصائيات1.png)  * | ![Statistics2](screenshots/احصائيات2.png)|
+| **Theme Settings**<br/>*Interface theme and color customization.* | ![Theme Settings](screenshots/اعداد الثيم 1.png) | ![Theme Settings2](screenshots/اعداد الثيم 2.png) |
+| **Communities Management**<br/>*Academic communities administration.* | ![Communities Management](screenshots/17-إعداد-المجتمعات.png) |
+| **Courses Management**<br/>*Educational content management.* | ![Courses Management](screenshots/18-إعداد-الكورسات.png) |
+| **Users Management**<br/>*User accounts administration panel.* | ![Users Management](screenshots/19-عرض-المستخدمين.png) |
 
 ---
 
