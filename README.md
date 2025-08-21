@@ -22,7 +22,10 @@ A comprehensive, all-in-one platform designed to **eliminate student productivit
 
 ## 🖼️ Screenshots
 
+*Note:  The following images are selected snapshots from the application. The interfaces have been modified after these images in terms of design and language..*
+
 ### Student Application (Flutter)
+
 | | |
 | :--: | :-- |
 | **Welcome Screen**<br/>*Main welcome interface of the application.* | ![Welcome Screen](screenshots/01-شاشة-البداية.jpg) |
@@ -33,6 +36,7 @@ A comprehensive, all-in-one platform designed to **eliminate student productivit
 | **AI Services**<br/>*List of available smart services like translation and summarization.* | ![AI Tools](screenshots/06-خدمات-الذكاء-الاصطناعي.jpg) |
 
 ### Collaboration & Productivity
+
 | | |
 | :--: | :-- |
 | **Community Chat**<br/>*Group and private messaging system.* | ![Chat Interface](screenshots/شاشة-الدردشة.png) |
@@ -42,17 +46,19 @@ A comprehensive, all-in-one platform designed to **eliminate student productivit
 | **Pomodoro Timer**<br/>*Study session time management tool.* | ![Pomodoro Timer](screenshots/11-تقنية-البومودورو.png) |
 
 ### Educational Content
+
 | | |
 | :--: | :-- |
 | **Courses Interface**<br/>*Educational courses by academic specialty.* | ![Courses](screenshots/12-شاشات-الكورسات.png) |
 | **Profile Settings**<br/>*Account and application settings.* | ![Profile Settings](screenshots/13-إعدادات-الملف-الشخصي.png) |
 
 ### Admin Dashboard (React)
+
 | | |
 | :--: | :-- |
 | **Admin Main Dashboard**<br/>*Main administration interface with statistics.* | ![Admin Dashboard](screenshots/14-لوحة-التحكم.png) |
-| **Statistics Overview**<br/>*Platform usage and revenue statistics.* | ![Statistics](screenshots/احصائيات1.png)  * | ![Statistics2](screenshots/احصائيات2.png)|
-| **Theme Settings**<br/>*Interface theme and color customization.* | ![Theme Settings](screenshots/اعداد الثيم 1.png) | ![Theme Settings2](screenshots/اعداد الثيم 2.png) |
+| **Statistics Overview**<br/>*Platform usage and revenue statistics.* | ![Statistics](screenshots/احصائيات1.png) <br/>-------------------------------------------------------------------------------------------------------------------------<br/> ![Statistics2](screenshots/احصائيات2.png) |
+| **Theme Settings**<br/>*Interface theme and color customization.* | ![Theme Settings](screenshots/الثيم1.png) <br/>-----------------------------------------------------------------------------------------------------------------------<br/> ![Theme Settings2](screenshots/الثيم2.png) |
 | **Communities Management**<br/>*Academic communities administration.* | ![Communities Management](screenshots/17-إعداد-المجتمعات.png) |
 | **Courses Management**<br/>*Educational content management.* | ![Courses Management](screenshots/18-إعداد-الكورسات.png) |
 | **Users Management**<br/>*User accounts administration panel.* | ![Users Management](screenshots/19-عرض-المستخدمين.png) |
@@ -87,4 +93,5 @@ This project is a fully realized **proof-of-concept**. All core features have be
 *   **Esmail Algabr** - [GitHub Profile](https://github.com/MRF5-ISMALL)
 
 ---
+
 *This project was developed as a graduation requirement for the Bachelor's degree in Information Technology.*
