@@ -25,17 +25,37 @@ A comprehensive, all-in-one platform designed to **eliminate student productivit
 ### Student Application (Flutter)
 | | |
 | :--: | :-- |
-| **Onboarding & Auth**<br/>*Smooth login and sign-up flow.* | ![Onboarding Screenshot](screenshots/01-onboarding.jpg) |
-| **Main Dashboard**<br/>*Personalized overview of tasks and tools.* | ![Dashboard Screenshot](screenshots/02-dashboard.jpg) |
-| **AI Services**<br/>*Summarization, translation, and AI chat.* | ![AI Tools Screenshot](screenshots/03-ai-tools.jpg) |
-| **Community Chat**<br/>*Real-time public and private messaging.* | ![Chat Screenshot](screenshots/04-chat.jpg) |
-| **Help Marketplace**<br/>*Post requests and review assistance offers.* | ![Marketplace Screenshot](screenshots/05-marketplace.jpg) |
-| **Task & Pomodoro**<br/>*Manage academic tasks and focus sessions.* | ![Tasks Screenshot](screenshots/06-tasks.jpg) |
+| **Welcome Screen**<br/>*Main welcome interface of the application.* | ![Welcome Screen](screenshots/01-شاشة-البداية.jpg) |
+| **Login Screen**<br/>*Login interface with email and social media options.* | ![Login Screen](screenshots/02-تسجيل-الدخول.jpg) |
+| **Registration Process**<br/>*Account creation with personal data and specialization.* | ![Registration](screenshots/03-إنشاء-حساب.jpg) |
+| **Subscription Plans**<br/>*Choice between free and premium plans.* | ![Subscription Plans](screenshots/04-اختيار-الخطة.jpg) |
+| **Main Dashboard**<br/>*Personalized overview of tasks and tools.* | ![Main Dashboard](screenshots/05-الشاشة-الرئيسية.jpg) |
+| **AI Services**<br/>*List of available smart services like translation and summarization.* | ![AI Tools](screenshots/06-خدمات-الذكاء-الاصطناعي.jpg) |
+
+### Collaboration & Productivity
+| | |
+| :--: | :-- |
+| **Community Chat**<br/>*Group and private messaging system.* | ![Chat Interface](screenshots/07-شاشة-الدردشة.jpg) |
+| **Help Requests**<br/>*Interface for creating assistance requests.* | ![Help Requests](screenshots/08-طلب-المساعدة.jpg) |
+| **Assistance Offers**<br/>*View and manage assistance offers from tutors.* | ![Assistance Offers](screenshots/09-عروض-المساعدة.jpg) |
+| **Task Management**<br/>*Academic task organization interface.* | ![Task Manager](screenshots/10-خدمة-المهام.jpg) |
+| **Pomodoro Timer**<br/>*Study session time management tool.* | ![Pomodoro Timer](screenshots/11-تقنية-البومودورو.jpg) |
+
+### Educational Content
+| | |
+| :--: | :-- |
+| **Courses Interface**<br/>*Educational courses by academic specialty.* | ![Courses](screenshots/12-شاشات-الكورسات.jpg) |
+| **Profile Settings**<br/>*Account and application settings.* | ![Profile Settings](screenshots/13-إعدادات-الملف-الشخصي.jpg) |
 
 ### Admin Dashboard (React)
-| |
-| :--: |
-| **Admin Panel**<br/>*Comprehensive platform management interface.*<br/> ![Admin Panel Screenshot](screenshots/07-admin-panel.jpg) |
+| | |
+| :--: | :-- |
+| **Admin Main Dashboard**<br/>*Main administration interface with statistics.* | ![Admin Dashboard](screenshots/14-لوحة-التحكم.jpg) |
+| **Statistics Overview**<br/>*Platform usage and revenue statistics.* | ![Statistics](screenshots/15-شاشة-الإحصائيات.jpg) |
+| **Theme Settings**<br/>*Interface theme and color customization.* | ![Theme Settings](screenshots/16-إعدادات-القوائم.jpg) |
+| **Communities Management**<br/>*Academic communities administration.* | ![Communities Management](screenshots/17-إعداد-المجتمعات.jpg) |
+| **Courses Management**<br/>*Educational content management.* | ![Courses Management](screenshots/18-إعداد-الكورسات.jpg) |
+| **Users Management**<br/>*User accounts administration panel.* | ![Users Management](screenshots/19-عرض-المستخدمين.jpg) |
 
 ---
 
